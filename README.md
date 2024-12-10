@@ -9,5 +9,5 @@ This Python project simulates and visualizes the dynamics of nuclear magnetizati
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/BlochEquationSimulator.git
+   git clone https://github.com/malaaika-chhaya/BlochEquationSimulator.git
    cd BlochEquationSimulator
